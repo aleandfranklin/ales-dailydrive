@@ -22,6 +22,20 @@ mkdir -p "${LOG_DIR}"
 # --- Log cleanup: delete log files older than 7 days ---
 find "${LOG_DIR}" -name "dailydrive-*.log" -type f -mtime +7 -delete
 
+# --- Auto-deploy: pull latest code from git and sync to /opt ---
+GIT_REPO="/home/pdeglon/patdeg/dailydrive"
+if [ -d "${GIT_REPO}/.git" ]; then
+  echo "=== Auto-deploy: pulling latest code ===" >> "${LOG_FILE}"
+  git -C "${GIT_REPO}" pull --ff-only >> "${LOG_FILE}" 2>&1 || echo "⚠️  Git pull failed (non-fatal, continuing with current code)" >> "${LOG_FILE}"
+  # Sync code files to /opt/dailydrive (skip config, tokens, state, node_modules)
+  cp "${GIT_REPO}/index.js" "${DAILYDRIVE_DIR}/index.js"
+  cp "${GIT_REPO}/setup.js" "${DAILYDRIVE_DIR}/setup.js"
+  cp "${GIT_REPO}/taste-profile.js" "${DAILYDRIVE_DIR}/taste-profile.js"
+  cp "${GIT_REPO}/package.json" "${DAILYDRIVE_DIR}/package.json"
+  cp -r "${GIT_REPO}/scripts/"* "${DAILYDRIVE_DIR}/scripts/"
+  echo "=== Auto-deploy complete ===" >> "${LOG_FILE}"
+fi
+
 # --- Run the full playlist refresh ---
 echo "=== Daily full refresh started at $(date) ===" >> "${LOG_FILE}"
 cd "${DAILYDRIVE_DIR}"
