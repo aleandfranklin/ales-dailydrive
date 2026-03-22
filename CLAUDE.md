@@ -120,7 +120,7 @@ Pattern string like `"PMMMM"` where P = podcast, M = music. The pattern repeats 
 Three sources can be combined:
 - **Top tracks:** `getMyTopTracks()` with configurable `time_range` (short/medium/long term)
 - **Genre search:** `searchTracks()` with `genre:` queries
-- **Source playlists:** `getPlaylistTracks()` from user-specified playlists
+- **Source playlists:** fetched via `/v1/playlists/{id}/items` endpoint (direct fetch, not the library's `getPlaylistTracks()` which hits the deprecated `/tracks` endpoint)
 
 When genres are configured alongside top tracks/playlists, the script automatically splits `total_songs` **50/50**: half familiar (top tracks + playlists), half discovery (genre search). This ensures each refresh has a mix of comfort and novelty. Discovery tracks are deduplicated against familiar tracks.
 
@@ -136,8 +136,8 @@ Demeterics key modes:
 - `GET /v1/shows/{id}/episodes` — latest podcast episodes
 - `GET /v1/me/top/tracks` — user's most-played tracks
 - `GET /v1/search` — genre-based track discovery
-- `GET /v1/playlists/{id}/tracks` — tracks from source playlists
-- `PUT /v1/playlists/{id}/items` — replace playlist contents (NOT `/tracks` — deprecated)
+- `GET /v1/playlists/{id}/items` — tracks/episodes from playlists (replaces `/tracks` which returns 403 since Feb 2026)
+- `PUT /v1/playlists/{id}/items` — replace playlist contents
 - `POST /v1/playlists/{id}/items` — add tracks (for batches > 100)
 - `POST /api/token` — refresh OAuth token
 
@@ -198,7 +198,7 @@ schedule:
 
 - **Dev Mode requires Premium** and limits to **5 authorized users** per Client ID
 - **User Management** — must add yourself in Dashboard even as app owner
-- `/v1/playlists/{id}/tracks` — **replaced** by `/v1/playlists/{id}/items` for writes
+- `/v1/playlists/{id}/tracks` — **returns 403 Forbidden** for both reads and writes; use `/v1/playlists/{id}/items` instead. The `spotify-web-api-node` library's `getPlaylistTracks()` still hits the old endpoint — use direct `fetch()` with `/items` instead
 - `/v1/recommendations` endpoint — **REMOVED** (Nov 2024 deprecated, Feb 2026 removed)
 - `/artists/{id}/top-tracks` — **REMOVED** (Feb 2026)
 - Audio features (valence, energy, danceability) — **DEPRECATED** (Nov 2024)
@@ -217,3 +217,4 @@ schedule:
 - Spotify API rate limit is generous for personal use but can hit 429 with rapid calls
 - Podcast episode IDs change with each new episode — always fetch fresh
 - State caching prevents unnecessary updates when episodes haven't changed — delete `state.json` to force
+- NPR News Now and similar hourly news podcasts publish episodes that **expire on Spotify within hours**. If the playlist isn't refreshed frequently enough, these episodes show as unavailable. Consider running more often than twice daily if using such podcasts
