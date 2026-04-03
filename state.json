@@ -1,6 +1,6 @@
 {
-  "episode_uris": "spotify:episode:284DhK4l8qkTIkKYNkn6St,spotify:episode:5Dj08tUIkUiro9NNgEe8qn,spotify:episode:5KJiNiXEyh9ip1SFCLkCQ5,spotify:episode:6ePIOXUlUpYAWJylE1enhd",
-  "last_updated": "2026-04-02T12:03:57.348Z",
+  "episode_uris": "spotify:episode:06rZf1FLuDKwkno2eh8ZvO,spotify:episode:0iLLstZJfjuwMqFmopa56D,spotify:episode:4RDxZezMtZHofBkYM9MiKG,spotify:episode:5w7rYelaGH8zFPbcWB6r4J",
+  "last_updated": "2026-04-03T11:56:13.973Z",
   "music_tracks": [
     {
       "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
@@ -9,81 +9,33 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
-      "name": "Viva La Vida",
-      "artist": "Coldplay",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
-      "name": "my tears ricochet",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
-      "name": "Manchild",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
-      "name": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
-      "name": "august",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
-      "name": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
-      "name": "Style",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
-      "artist": "Coldplay",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
-      "name": "Please Please Please",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
-      "name": "WILDFLOWER",
+      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
       "artist": "Billie Eilish",
       "type": "track"
     },
     {
-      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
-      "name": "Die With A Smile",
-      "artist": "Lady Gaga, Bruno Mars",
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "artist": "Harry Styles",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
+      "name": "Tears",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
@@ -93,21 +45,9 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "name": "I Love You, I'm Sorry",
-      "artist": "Gracie Abrams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
+      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
+      "name": "Please Please Please",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
@@ -117,9 +57,15 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-      "name": "That’s So True",
-      "artist": "Gracie Abrams",
+      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
       "type": "track"
     },
     {
@@ -129,21 +75,27 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
-      "name": "Love On The Brain",
-      "artist": "Rihanna",
+      "uri": "spotify:track:5O2P9iiztwhomNh8xkR9lJ",
+      "name": "Night Changes",
+      "artist": "One Direction",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
-      "name": "Fortnight (feat. Post Malone)",
-      "artist": "Taylor Swift, Post Malone",
+      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
+      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
+      "name": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
       "type": "track"
     },
     {
@@ -151,7 +103,55 @@
       "name": "Talking to the Moon",
       "artist": "Bruno Mars",
       "type": "track"
+    },
+    {
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "name": "That’s So True",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey",
+      "artist": "The Lumineers",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "name": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
+      "name": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "name": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep",
+      "artist": "Radiohead",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
+      "artist": "Taylor Swift",
+      "type": "track"
     }
   ],
-  "last_full_refresh": "2026-04-02T12:03:57.348Z"
+  "last_full_refresh": "2026-04-03T11:56:13.974Z"
 }
