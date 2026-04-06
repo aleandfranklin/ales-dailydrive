@@ -1,11 +1,17 @@
 {
-  "episode_uris": "spotify:episode:16QmIDA4Lu3CFzZ5kR3z8s,spotify:episode:4V2cRdAlRjQKbAd4bueTNs,spotify:episode:5grwg87iE1OFA2lX4wFwXt,spotify:episode:5w7rYelaGH8zFPbcWB6r4J",
-  "last_updated": "2026-04-05T11:05:19.379Z",
+  "episode_uris": "spotify:episode:4cGMV6HYJEHUWlvD3xwsvk,spotify:episode:5fhLIlmkmgD496ZIOiJdtx,spotify:episode:5grwg87iE1OFA2lX4wFwXt,spotify:episode:7h09GOfEvFeSAEfW4yWheV",
+  "last_updated": "2026-04-06T12:03:13.981Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
+      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
+      "name": "my tears ricochet",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
@@ -15,75 +21,9 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:161DnLWsx1i3u1JT05lzqU",
-      "name": "Talking to the Moon",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
-      "name": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
-      "name": "Fine Line",
-      "artist": "Harry Styles",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "name": "I Love You, I'm Sorry",
-      "artist": "Gracie Abrams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
-      "name": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-      "name": "Just the Way You Are",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
-      "name": "Porch Light",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
-      "name": "Ordinary",
-      "artist": "Alex Warren",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artist": "Zara Larsson",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
-      "artist": "John Legend",
+      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
+      "name": "Umbrella",
+      "artist": "Rihanna, JAŸ-Z",
       "type": "track"
     },
     {
@@ -93,27 +33,39 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
-      "name": "The Fate of Ophelia",
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:0mflMxspEfB0VbI1kyLiAv",
-      "name": "Stick Season",
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+      "name": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5O2P9iiztwhomNh8xkR9lJ",
-      "name": "Night Changes",
-      "artist": "One Direction",
+      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "name": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
       "type": "track"
     },
     {
@@ -123,35 +75,83 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
-      "name": "Fortnight (feat. Post Malone)",
-      "artist": "Taylor Swift, Post Malone",
+      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
       "type": "track"
     },
     {
-      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
-      "name": "Style",
+      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artist": "Coldplay",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
-      "name": "WILDFLOWER",
-      "artist": "Billie Eilish",
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
-      "name": "august",
+      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+      "name": "All of Me",
+      "artist": "John Legend",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
+      "name": "Opalite",
       "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
+      "name": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+      "name": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "artist": "Harry Styles",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
+      "name": "Taste",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-04-05T11:05:19.379Z"
+  "last_full_refresh": "2026-04-06T12:03:13.981Z"
 }
