@@ -3,7 +3,7 @@ name: Rebuild Spotify playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: '53 5 * * *'
+    - cron: '30 6 * * *'
       timezone: 'America/New_York'
 
 permissions:
