@@ -1,101 +1,17 @@
 {
-  "episode_uris": "spotify:episode:0YW8bJGQq97pQv1AZ6mgSR,spotify:episode:1AMmBfHtPCcUI1FqluZi6K,spotify:episode:3KnXauRC21D7FZz8Y8QOrp,spotify:episode:5gM4erjuh8NLCCObHu2EMR,spotify:episode:7MhOXBIMljlvlor9yvu1oS",
-  "last_updated": "2026-04-25T12:04:41.794Z",
+  "episode_uris": "spotify:episode:1tMapqtUT6GS4GAnb4J9Zv,spotify:episode:3cWP2Q50RnCtYIXO0NZRjY,spotify:episode:4TuJx0xIR1Rk5sXRjiILqX,spotify:episode:6wUqR7uBdQlNzey4SwKvLQ,spotify:episode:7MhOXBIMljlvlor9yvu1oS",
+  "last_updated": "2026-04-26T12:07:25.400Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
-      "name": "Fine Line",
-      "artist": "Harry Styles",
+      "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ",
+      "name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
-      "name": "Please Please Please",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
-      "name": "Count on Me",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
-      "name": "When Did You Get Hot?",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
-      "artist": "John Legend",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
-      "name": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
-      "name": "The Fate of Ophelia",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
-      "name": "Style",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
-      "name": "Blank Space",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-      "name": "Just the Way You Are",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U5JVgI2x4rDyHGObzJfNf",
-      "name": "Unwritten",
-      "artist": "Natasha Bedingfield",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0mflMxspEfB0VbI1kyLiAv",
-      "name": "Stick Season",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
-      "name": "Fortnight (feat. Post Malone)",
-      "artist": "Taylor Swift, Post Malone",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "name": "Young And Beautiful",
+      "artist": "Lana Del Rey",
       "type": "track"
     },
     {
@@ -105,33 +21,93 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
-      "name": "my tears ricochet",
+      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
+      "name": "Stay",
+      "artist": "Rihanna, Mikky Ekko",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
-      "name": "Love Me Like You Do",
-      "artist": "Ellie Goulding",
+      "uri": "spotify:track:161DnLWsx1i3u1JT05lzqU",
+      "name": "Talking to the Moon",
+      "artist": "Bruno Mars",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artist": "Zara Larsson",
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
-      "name": "Counting Stars",
-      "artist": "OneRepublic",
+      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
+      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+      "name": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "artist": "Harry Styles",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
+      "name": "Count on Me",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
+      "name": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
+      "name": "Bad Romance",
+      "artist": "Lady Gaga",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep",
+      "artist": "Radiohead",
       "type": "track"
     },
     {
@@ -141,17 +117,41 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "artist": "B.o.B, Bruno Mars",
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
+      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "name": "Style",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "name": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-04-25T12:04:41.794Z"
+  "last_full_refresh": "2026-04-26T12:07:25.400Z"
 }
