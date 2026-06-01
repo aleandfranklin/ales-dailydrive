@@ -1,6 +1,6 @@
 {
-  "episode_uris": "spotify:episode:0hhDVUzckzveiNeTt1aBS6,spotify:episode:2UMutL4WpAUQxnGN6fzeoA,spotify:episode:32L4UEvndC0XRwUjwv6qpx,spotify:episode:5OpjNLGcXi0v8b7F0nsgj9,spotify:episode:692wGaPkv6xz9GJm3dNKQx",
-  "last_updated": "2026-05-31T11:55:57.565Z",
+  "episode_uris": "spotify:episode:2MzSohR7ph6mA2CPlRczzP,spotify:episode:4iDvyIdkiAMiOyAAQBJxG0,spotify:episode:4jGmKk5D0nMr7Sr5GuUh9o,spotify:episode:692wGaPkv6xz9GJm3dNKQx,spotify:episode:6cAbYUliIXzAuzuV9YyIka",
+  "last_updated": "2026-06-01T16:20:31.840Z",
   "music_tracks": [
     {
       "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
@@ -9,9 +9,33 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:161DnLWsx1i3u1JT05lzqU",
-      "name": "Talking to the Moon",
-      "artist": "Bruno Mars",
+      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
+      "name": "Opalite",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
+      "name": "Beauty And A Beat",
+      "artist": "Justin Bieber, Nicki Minaj",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+      "name": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
       "type": "track"
     },
     {
@@ -21,123 +45,93 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
-      "name": "When Did You Get Hot?",
-      "artist": "Sabrina Carpenter",
+      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
+      "name": "Stay",
+      "artist": "Rihanna, Mikky Ekko",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artist": "Zara Larsson",
+      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
+      "name": "my tears ricochet",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
-      "name": "Fine Line",
-      "artist": "Harry Styles",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
-      "name": "We Go Way Back",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
-      "name": "Golden",
-      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
-      "name": "The Scientist",
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
       "artist": "Coldplay",
       "type": "track"
     },
     {
-      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-      "name": "Just the Way You Are",
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "name": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
+      "name": "A Few Of Your Own",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
+      "name": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
+      "name": "cardigan",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
       "artist": "Bruno Mars",
       "type": "track"
     },
     {
-      "uri": "spotify:track:4oR1cEFrN0rq9DLTrEQjMd",
-      "name": "The Great Divide",
-      "artist": "Noah Kahan",
+      "uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
+      "name": "Count on Me",
+      "artist": "Bruno Mars",
       "type": "track"
     },
     {
-      "uri": "spotify:track:0ll8uFnc0nANY35E0Lfxvg",
-      "name": "Somewhere Only We Know",
-      "artist": "Keane",
+      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
+      "name": "august",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
-      "name": "Spoiled",
-      "artist": "Noah Kahan",
+      "uri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
+      "name": "How to Save a Life",
+      "artist": "The Fray",
       "type": "track"
     },
     {
-      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
-      "name": "Hey There Delilah",
-      "artist": "Plain White T's",
+      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep",
+      "artist": "Radiohead",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
-      "name": "Iris",
-      "artist": "The Goo Goo Dolls",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ",
-      "name": "Last Friday Night (T.G.I.F.)",
-      "artist": "Katy Perry",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
-      "name": "Closer",
-      "artist": "The Chainsmokers, Halsey",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
-      "name": "Love Me Like You Do",
-      "artist": "Ellie Goulding",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
-      "name": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
-      "name": "A Thousand Miles",
-      "artist": "Vanessa Carlton",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
-      "name": "Pocketful of Sunshine",
-      "artist": "Natasha Bedingfield",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
-      "name": "Ho Hey",
-      "artist": "The Lumineers",
+      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
       "type": "track"
     },
     {
@@ -147,11 +141,17 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
-      "name": "Stay",
-      "artist": "Rihanna, Mikky Ekko",
+      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
+      "name": "Spoiled",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
+      "artist": "Noah Kahan",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-05-31T11:55:57.565Z"
+  "last_full_refresh": "2026-06-01T16:20:31.841Z"
 }
