@@ -1,112 +1,40 @@
 {
-  "episode_uris": "spotify:episode:0mbOm4JSLNAFYHtFkTuLwn,spotify:episode:19VuSMQXsnGxJhhkxwxfme,spotify:episode:27NLsxb13CiTTW4Ksc3ldm,spotify:episode:2nvD1PvTc6JXslfCN44Knk,spotify:episode:5kxNcTVFOof4OdayUF7tQG",
-  "last_updated": "2026-06-09T13:22:42.702Z",
+  "episode_uris": "spotify:episode:1IYRHJNThj04uyshrPx09b,spotify:episode:2nvD1PvTc6JXslfCN44Knk,spotify:episode:3BvzPr9Na4esGTYFxIdytO,spotify:episode:3mK0dvLutUFsc4kVb9NIBF,spotify:episode:4Zte46lVa1GKzCYmY0kDf2",
+  "last_updated": "2026-06-10T13:54:13.887Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
-      "name": "Pocketful of Sunshine",
-      "artist": "Natasha Bedingfield",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artist": "Justin Bieber",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
-      "name": "Doors",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U5JVgI2x4rDyHGObzJfNf",
-      "name": "Unwritten",
-      "artist": "Natasha Bedingfield",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "artist": "B.o.B, Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
-      "name": "Hey There Delilah",
-      "artist": "Plain White T's",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:161DnLWsx1i3u1JT05lzqU",
-      "name": "Talking to the Moon",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
-      "name": "Stay",
-      "artist": "Rihanna, Mikky Ekko",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
-      "name": "Spoiled",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
-      "name": "Love Me Like You Do",
-      "artist": "Ellie Goulding",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
-      "name": "Love On The Brain",
-      "artist": "Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
-      "name": "Opalite",
+      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
-      "name": "Die On This Hill",
-      "artist": "SIENNA SPIRO",
+      "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ",
+      "name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
-      "name": "Fine Line",
-      "artist": "Harry Styles",
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "name": "Style",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artist": "Billie Eilish",
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
-      "name": "A Few Of Your Own",
+      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
+      "name": "Umbrella",
+      "artist": "Rihanna, JAŸ-Z",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
       "artist": "Noah Kahan",
       "type": "track"
     },
@@ -117,27 +45,51 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
-      "name": "Haircut",
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
+      "name": "Mirrors",
+      "artist": "Justin Timberlake",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
+      "name": "Taste",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4oR1cEFrN0rq9DLTrEQjMd",
+      "name": "The Great Divide",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
-      "name": "That’s So True",
-      "artist": "Gracie Abrams",
+      "uri": "spotify:track:1yO0BdWqCN0ND5JzQPhMpT",
+      "name": "Dashboard",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
-      "name": "Fortnight (feat. Post Malone)",
-      "artist": "Taylor Swift, Post Malone",
+      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
+      "name": "august",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
+      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
       "type": "track"
     },
     {
@@ -147,11 +99,59 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
+      "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
+      "name": "Riptide",
+      "artist": "Vance Joy",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2riqLstH9xOaFrmXe4u3lO",
+      "name": "All Them Horses",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+      "name": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "name": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5eZT30V5rwLbsal1MMkOxD",
+      "name": "American Cars",
+      "artist": "Noah Kahan",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-06-09T13:22:42.702Z"
+  "last_full_refresh": "2026-06-10T13:54:13.887Z"
 }
