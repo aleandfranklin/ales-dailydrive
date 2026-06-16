@@ -1,47 +1,23 @@
 {
-  "episode_uris": "spotify:episode:0tUFxKyqCWBJZqAOwK04Lq,spotify:episode:3EVdcUCEdW36XwfwaIC89M,spotify:episode:695VfcNOuAiTw7c2RpyOBp",
-  "last_updated": "2026-06-15T16:06:57.589Z",
+  "episode_uris": "spotify:episode:0gs0bT9FdQENdtdP5UFS18,spotify:episode:2apXfgqmi5AQ5zR4bVnzLO,spotify:episode:3KaqRd1n89Ugl167Lz94Mb,spotify:episode:3NNtx2rkhepwVGyXp07FQ7,spotify:episode:43UxwspzDSqb8csY5Zmmdq",
+  "last_updated": "2026-06-16T15:26:14.719Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
-      "name": "Blank Space",
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
+      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
+      "name": "We Go Way Back",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
-      "name": "Creep",
-      "artist": "Radiohead",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
-      "name": "The Fate of Ophelia",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
-      "name": "Riptide",
-      "artist": "Vance Joy",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
-      "name": "Counting Stars",
-      "artist": "OneRepublic",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
-      "name": "When Did You Get Hot?",
-      "artist": "Sabrina Carpenter",
+      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+      "name": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
       "type": "track"
     },
     {
@@ -51,38 +27,32 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
-      "name": "my tears ricochet",
-      "artist": "Taylor Swift",
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
-      "name": "Mr. Brightside",
-      "artist": "The Killers",
+      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars",
       "type": "track"
     },
     {
-      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
-      "name": "Love Yourself",
-      "artist": "Justin Bieber",
+      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
+      "name": "Lighthouse",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
-      "name": "So Easy (To Fall In Love)",
-      "artist": "Olivia Dean",
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1mKXFLRA179hdOWQBwUk9e",
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "artist": "P!nk, Nate Ruess",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
-      "name": "Count on Me",
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
       "artist": "Bruno Mars",
       "type": "track"
     },
@@ -93,45 +63,15 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
-      "name": "cardigan",
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
       "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
-      "name": "Haircut",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
-      "name": "We Go Way Back",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
-      "name": "Please Please Please",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artist": "Zara Larsson",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
-      "name": "Deny Deny Deny",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
-      "name": "Die On This Hill",
-      "artist": "SIENNA SPIRO",
       "type": "track"
     },
     {
@@ -141,17 +81,77 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
-      "name": "Porch Light",
+      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
+      "name": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
+      "name": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
+      "name": "The Scientist",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+      "name": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
+      "name": "Umbrella",
+      "artist": "Rihanna, JAŸ-Z",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:35po0dhj4pRkbVDeooNVBW",
+      "name": "Staying Still",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "artist": "B.o.B, Bruno Mars",
+      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
+      "name": "my tears ricochet",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
+      "name": "cardigan",
+      "artist": "Taylor Swift",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-06-15T16:06:57.589Z"
+  "last_full_refresh": "2026-06-16T15:26:14.719Z"
 }
