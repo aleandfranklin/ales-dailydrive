@@ -1,11 +1,17 @@
 {
-  "episode_uris": "spotify:episode:0gs0bT9FdQENdtdP5UFS18,spotify:episode:2apXfgqmi5AQ5zR4bVnzLO,spotify:episode:3KaqRd1n89Ugl167Lz94Mb,spotify:episode:3NNtx2rkhepwVGyXp07FQ7,spotify:episode:43UxwspzDSqb8csY5Zmmdq",
-  "last_updated": "2026-06-16T15:26:14.719Z",
+  "episode_uris": "spotify:episode:1CcP21rr9Olw6qUP1pmA8Q,spotify:episode:1tPV9MetRA5cIfbOnre0fI,spotify:episode:3NNtx2rkhepwVGyXp07FQ7,spotify:episode:3PGRKsmRtvRqXT0BS0Ov8q,spotify:episode:4x6xc0uYdl69oRtzxlovWu",
+  "last_updated": "2026-06-17T14:07:05.901Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
+      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
+      "name": "Story of My Life",
+      "artist": "One Direction",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
+      "name": "Love Me Like You Do",
+      "artist": "Ellie Goulding",
       "type": "track"
     },
     {
@@ -15,105 +21,51 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
-      "name": "Golden",
-      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
+      "name": "Man I Need",
+      "artist": "Olivia Dean",
       "type": "track"
     },
     {
-      "uri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
-      "name": "Bad Romance",
-      "artist": "Lady Gaga",
+      "uri": "spotify:track:70LcF31zb1H0PyJoS1Sx1r",
+      "name": "Creep",
+      "artist": "Radiohead",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
-      "name": "23",
-      "artist": "Noah Kahan",
+      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
       "type": "track"
     },
     {
-      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "artist": "B.o.B, Bruno Mars",
+      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
-      "name": "Lighthouse",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
-      "name": "Headed North",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
-      "name": "Manchild",
+      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
+      "name": "Tears",
       "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
-      "name": "Blank Space",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
-      "name": "Doors",
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
-      "name": "Hey There Delilah",
-      "artist": "Plain White T's",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
-      "name": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
-      "name": "The Scientist",
-      "artist": "Coldplay",
+      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
       "type": "track"
     },
     {
       "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
       "name": "Only Girl (In The World)",
       "artist": "Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
-      "name": "Umbrella",
-      "artist": "Rihanna, JAŸ-Z",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:35po0dhj4pRkbVDeooNVBW",
-      "name": "Staying Still",
-      "artist": "Noah Kahan",
       "type": "track"
     },
     {
@@ -129,29 +81,77 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
-      "name": "When Did You Get Hot?",
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
+      "name": "WHERE IS MY HUSBAND!",
+      "artist": "RAYE",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
+      "name": "Lush Life",
+      "artist": "Zara Larsson",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey",
+      "artist": "The Lumineers",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
+      "artist": "Justin Bieber",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
+      "name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3avYqdwHKEq8beXbeWCKqJ",
+      "name": "Last Friday Night (T.G.I.F.)",
+      "artist": "Katy Perry",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
+      "name": "Opalite",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
+      "name": "Love Yourself",
+      "artist": "Justin Bieber",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
+      "name": "Taste",
       "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
-      "name": "Ordinary",
-      "artist": "Alex Warren",
+      "uri": "spotify:track:2riqLstH9xOaFrmXe4u3lO",
+      "name": "All Them Horses",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
-      "name": "Closer",
-      "artist": "The Chainsmokers, Halsey",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
-      "name": "cardigan",
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "name": "Style",
       "artist": "Taylor Swift",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-06-16T15:26:14.719Z"
+  "last_full_refresh": "2026-06-17T14:07:05.902Z"
 }
