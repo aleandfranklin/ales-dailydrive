@@ -1,23 +1,35 @@
 {
-  "episode_uris": "spotify:episode:0agVJpCAkSi9EqChQSUPMC,spotify:episode:1OS9KLR6kVIphKZPoIiXJZ,spotify:episode:2GzEiZ4ItsNfrwJEhLguc1,spotify:episode:2vtZga5O9u3qTvoMSIbaty,spotify:episode:5c5MVHMh9bN7mWCdrbzGhn",
-  "last_updated": "2026-06-18T13:46:04.239Z",
+  "episode_uris": "spotify:episode:0agVJpCAkSi9EqChQSUPMC,spotify:episode:3aauZO4MNfoTXbD9YxO5yx,spotify:episode:7DEz9Br3y2CyKFv8NdJ2cy,spotify:episode:7nLUpVhZrIXX7tLGdolqgX,spotify:episode:7y6ZWZOonJGTB8xuKTxyEP",
+  "last_updated": "2026-06-19T13:53:34.696Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
-      "name": "my tears ricochet",
-      "artist": "Taylor Swift",
+      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
+      "name": "Ordinary",
+      "artist": "Alex Warren",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
-      "name": "Paid Time Off",
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
-      "name": "Story of My Life",
-      "artist": "One Direction",
+      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
+      "name": "Haircut",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
+      "name": "Lighthouse",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
@@ -27,105 +39,21 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:0cvrMGzr2LhZAG5SP8KDUB",
-      "name": "Downfall",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
-      "name": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
-      "name": "Headed North",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
-      "name": "A Few Of Your Own",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
-      "name": "Umbrella",
-      "artist": "Rihanna, JAŸ-Z",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
-      "name": "The Fate of Ophelia",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
-      "name": "Vienna",
-      "artist": "Billy Joel",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
-      "name": "Love Yourself",
-      "artist": "Justin Bieber",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2uIX8YMNjGMD7441kqyyNU",
-      "name": "ocean eyes",
-      "artist": "Billie Eilish",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5LlExBVApHgxWQf6BbsCwo",
-      "name": "End of August",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
-      "name": "Iris",
-      "artist": "The Goo Goo Dolls",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1zArTa4SIVhech5bHzzxeh",
-      "name": "Love Me Like You Do",
-      "artist": "Ellie Goulding",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:31xEHFL0vuG4pJjpJiF367",
-      "name": "Dan",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
       "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
       "name": "cardigan",
       "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+      "name": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift, Post Malone",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
+      "name": "Spoiled",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
@@ -135,23 +63,95 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
-      "name": "august",
+      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
+      "name": "Stay",
+      "artist": "Rihanna, Mikky Ekko",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F",
+      "name": "Complicated",
+      "artist": "Avril Lavigne",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-      "name": "Nothin' on You (feat. Bruno Mars)",
-      "artist": "B.o.B, Bruno Mars",
+      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
+      "name": "Lush Life",
+      "artist": "Zara Larsson",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
-      "artist": "Coldplay",
+      "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
+      "name": "Riptide",
+      "artist": "Vance Joy",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
+      "name": "Vienna",
+      "artist": "Billy Joel",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
+      "name": "Paid Time Off",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
+      "name": "Umbrella",
+      "artist": "Rihanna, JAŸ-Z",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2riqLstH9xOaFrmXe4u3lO",
+      "name": "All Them Horses",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
+      "name": "Mirrors",
+      "artist": "Justin Timberlake",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+      "name": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77fL8ATR0dpUDLI0XLmDBV",
+      "name": "Orbiter",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-06-18T13:46:04.239Z"
+  "last_full_refresh": "2026-06-19T13:53:34.697Z"
 }
