@@ -1,85 +1,7 @@
 {
-  "episode_uris": "spotify:episode:1et3Z1zuuTI8zOdCZxfRHw,spotify:episode:2QFD65I5DZEFQg9ZnzzKcV,spotify:episode:30q9Lv1gbTbiFTEcBg61IU,spotify:episode:3ge0zCnadDvyGkCr89oE0K,spotify:episode:7nLUpVhZrIXX7tLGdolqgX",
-  "last_updated": "2026-06-20T12:14:32.918Z",
+  "episode_uris": "spotify:episode:11aLfMRmQdtDdvBdeZKGxT,spotify:episode:13zz51zbhJdcTHywOzZElp,spotify:episode:1np1PLSHJEMQCXPqJvucdc,spotify:episode:7nLUpVhZrIXX7tLGdolqgX,spotify:episode:7tdJlSIyncm20XhVRLqlLO",
+  "last_updated": "2026-06-21T12:23:56.554Z",
   "music_tracks": [
-    {
-      "uri": "spotify:track:1qbmS6ep2hbBRaEZFpn7BX",
-      "name": "Man I Need",
-      "artist": "Olivia Dean",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1yO0BdWqCN0ND5JzQPhMpT",
-      "name": "Dashboard",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
-      "name": "iloveitiloveitiloveit",
-      "artist": "Bella Kay",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:77fL8ATR0dpUDLI0XLmDBV",
-      "name": "Orbiter",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-      "name": "Just the Way You Are",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
-      "name": "A Thousand Miles",
-      "artist": "Vanessa Carlton",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
-      "name": "Story of My Life",
-      "artist": "One Direction",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
-      "name": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7",
-      "name": "Beauty And A Beat",
-      "artist": "Justin Bieber, Nicki Minaj",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
-      "name": "Iris",
-      "artist": "The Goo Goo Dolls",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
-      "name": "Fortnight (feat. Post Malone)",
-      "artist": "Taylor Swift, Post Malone",
-      "type": "track"
-    },
     {
       "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
       "name": "Stay",
@@ -87,56 +9,50 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
-      "name": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
-      "name": "Mirrors",
-      "artist": "Justin Timberlake",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F",
-      "name": "Complicated",
-      "artist": "Avril Lavigne",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0ll8uFnc0nANY35E0Lfxvg",
-      "name": "Somewhere Only We Know",
-      "artist": "Keane",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-      "name": "Lush Life",
-      "artist": "Zara Larsson",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)",
-      "artist": "Ariana Grande",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
-      "name": "How to Save a Life",
-      "artist": "The Fray",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5Ggs0FNg1vw5ZLXDpyosb9",
-      "name": "Porch Light",
+      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
+      "name": "Spoiled",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
-      "name": "Haircut",
+      "uri": "spotify:track:3QaPy1KgI7nu9FJEQUgn6h",
+      "name": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
+      "name": "Risk It All",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0DwClY2t9YAWHBROMIgrXb",
+      "name": "Ho Hey",
+      "artist": "The Lumineers",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
+      "name": "Hey There Delilah",
+      "artist": "Plain White T's",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+      "name": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
+      "name": "Doors",
       "artist": "Noah Kahan",
       "type": "track"
     },
@@ -147,11 +63,95 @@
       "type": "track"
     },
     {
+      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "type": "track"
+    },
+    {
       "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
       "name": "Nothin' on You (feat. Bruno Mars)",
       "artist": "B.o.B, Bruno Mars",
       "type": "track"
+    },
+    {
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "name": "Style",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7ne4VBA60CxGM75vw0EYad",
+      "name": "That’s So True",
+      "artist": "Gracie Abrams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+      "name": "Only Girl (In The World)",
+      "artist": "Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5Ggs0FNg1vw5ZLXDpyosb9",
+      "name": "Porch Light",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+      "name": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift, Post Malone",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
+      "name": "The Scientist",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5G2f63n7IPVPPjfNIGih7Q",
+      "name": "Taste",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
+      "name": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "type": "track"
     }
   ],
-  "last_full_refresh": "2026-06-20T12:14:32.918Z"
+  "last_full_refresh": "2026-06-21T12:23:56.555Z"
 }
