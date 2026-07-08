@@ -1,10 +1,142 @@
 {
-  "episode_uris": "spotify:episode:0jMOFdBsq6bVuMy2Yup31v,spotify:episode:0pCGC86f9nZJJH2j0GJGgq,spotify:episode:3Y4XIlWMzJtTioR2uyfQfz,spotify:episode:4QSYmtKT3Q8o8ZZ2sjxlZD,spotify:episode:5I6SwKhqiWm9tvuOOk7RXF",
-  "last_updated": "2026-07-07T12:41:28.859Z",
+  "episode_uris": "spotify:episode:0He3IpUsshEjToUteo7IbF,spotify:episode:0VukF7jBquNJTrEJ7BNX8i,spotify:episode:2lz0gQUEQMFjg6NVgvXusc,spotify:episode:311ncR9UCv55G7tKSTAa8M,spotify:episode:5I6SwKhqiWm9tvuOOk7RXF",
+  "last_updated": "2026-07-08T12:03:11.451Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
-      "name": "We Go Way Back",
+      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
+      "name": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+      "name": "All of Me",
+      "artist": "John Legend",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
+      "name": "The Scientist",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
+      "name": "Tears",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
+      "name": "Counting Stars",
+      "artist": "OneRepublic",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
+      "name": "Viva La Vida",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
+      "name": "Style",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
+      "name": "Thinking out Loud",
+      "artist": "Ed Sheeran",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
+      "name": "Bad Romance",
+      "artist": "Lady Gaga",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "artist": "Coldplay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F",
+      "name": "Complicated",
+      "artist": "Avril Lavigne",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
+      "name": "The Great Divide",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
+      "name": "Paid Time Off",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0ll8uFnc0nANY35E0Lfxvg",
+      "name": "Somewhere Only We Know",
+      "artist": "Keane",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
+      "name": "Love Yourself",
+      "artist": "Justin Bieber",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
+      "name": "Lighthouse",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:31xEHFL0vuG4pJjpJiF367",
+      "name": "Dan",
       "artist": "Noah Kahan",
       "type": "track"
     },
@@ -15,143 +147,11 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:2uXlHCUbq9OMUwx3hrk06o",
-      "name": "Riptide",
-      "artist": "Vance Joy",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
-      "name": "Manchild",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
-      "name": "Ordinary",
-      "artist": "Alex Warren",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4oR1cEFrN0rq9DLTrEQjMd",
-      "name": "The Great Divide",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
-      "name": "DAISIES",
-      "artist": "Justin Bieber",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2uIX8YMNjGMD7441kqyyNU",
-      "name": "ocean eyes",
-      "artist": "Billie Eilish",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
-      "name": "Doors",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
-      "name": "How to Save a Life",
-      "artist": "The Fray",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
-      "name": "A Thousand Miles",
-      "artist": "Vanessa Carlton",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
-      "name": "Die With A Smile",
-      "artist": "Lady Gaga, Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
       "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
       "name": "Umbrella",
       "artist": "Rihanna, JAŸ-Z",
       "type": "track"
-    },
-    {
-      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
-      "name": "Love Yourself",
-      "artist": "Justin Bieber",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
-      "name": "Haircut",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
-      "name": "23",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-      "name": "Just the Way You Are",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
-      "name": "Blank Space",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
-      "name": "Opalite",
-      "artist": "Taylor Swift",
-      "type": "track"
     }
   ],
-  "last_full_refresh": "2026-07-07T12:41:28.859Z"
+  "last_full_refresh": "2026-07-08T12:03:11.451Z"
 }
