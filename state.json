@@ -1,47 +1,35 @@
 {
-  "episode_uris": "spotify:episode:0He3IpUsshEjToUteo7IbF,spotify:episode:0VukF7jBquNJTrEJ7BNX8i,spotify:episode:2lz0gQUEQMFjg6NVgvXusc,spotify:episode:311ncR9UCv55G7tKSTAa8M,spotify:episode:5I6SwKhqiWm9tvuOOk7RXF",
-  "last_updated": "2026-07-08T12:03:11.451Z",
+  "episode_uris": "spotify:episode:03hXnYjGasV5K8JyAPNJZf,spotify:episode:1tYNdxOCGHIHszRS6GGiur,spotify:episode:54OOJYwJuu812odfTyFa6g,spotify:episode:6L1uordKSZQWXv3RlOxlgc,spotify:episode:7ejCa09c75VxeIMjUcNOvG",
+  "last_updated": "2026-07-09T13:25:31.232Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)",
-      "artist": "Ariana Grande",
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
-      "artist": "John Legend",
+      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
-      "name": "iloveitiloveitiloveit",
-      "artist": "Bella Kay",
+      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
       "type": "track"
     },
     {
-      "uri": "spotify:track:75JFxkI2RXiU7L9VXzMkle",
-      "name": "The Scientist",
-      "artist": "Coldplay",
+      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
+      "name": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
       "type": "track"
     },
     {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2tpWsVSb9UEmDRxAl1zhX1",
-      "name": "Counting Stars",
-      "artist": "OneRepublic",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
-      "name": "Viva La Vida",
-      "artist": "Coldplay",
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "name": "Young And Beautiful",
+      "artist": "Lana Del Rey",
       "type": "track"
     },
     {
@@ -51,39 +39,9 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:4lIxdJw6W3Fg4vUIYCB0S5",
-      "name": "Style",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0SiywuOBRcynK0uKGWdCnn",
-      "name": "Bad Romance",
-      "artist": "Lady Gaga",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
-      "name": "23",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
-      "artist": "Coldplay",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F",
-      "name": "Complicated",
-      "artist": "Avril Lavigne",
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
@@ -93,51 +51,81 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
-      "name": "Paid Time Off",
-      "artist": "Noah Kahan",
+      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars",
       "type": "track"
     },
     {
-      "uri": "spotify:track:0ll8uFnc0nANY35E0Lfxvg",
-      "name": "Somewhere Only We Know",
-      "artist": "Keane",
+      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
+      "name": "august",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
-      "name": "Headed North",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:50kpGaPAhYJ3sGmk6vplg0",
-      "name": "Love Yourself",
+      "uri": "spotify:track:5BZsQlgw21vDOAjoqkNgKb",
+      "name": "DAISIES",
       "artist": "Justin Bieber",
       "type": "track"
     },
     {
-      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-      "name": "Airplanes (feat. Hayley Williams of Paramore)",
-      "artist": "B.o.B, Hayley Williams",
+      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
+      "name": "Mirrors",
+      "artist": "Justin Timberlake",
       "type": "track"
     },
     {
-      "uri": "spotify:track:7so0lgd0zP2Sbgs2d7a1SZ",
-      "name": "Die With A Smile",
-      "artist": "Lady Gaga, Bruno Mars",
+      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
+      "name": "Opalite",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
-      "name": "Lighthouse",
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:31xEHFL0vuG4pJjpJiF367",
-      "name": "Dan",
+      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+      "name": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
+      "name": "Vienna",
+      "artist": "Billy Joel",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:35po0dhj4pRkbVDeooNVBW",
+      "name": "Staying Still",
       "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+      "name": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift, Post Malone",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
+      "name": "I Love You, I'm Sorry",
+      "artist": "Gracie Abrams",
       "type": "track"
     },
     {
@@ -147,11 +135,23 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
-      "name": "Umbrella",
-      "artist": "Rihanna, JAŸ-Z",
+      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
+      "name": "cardigan",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3U5JVgI2x4rDyHGObzJfNf",
+      "name": "Unwritten",
+      "artist": "Natasha Bedingfield",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
+      "name": "Hey There Delilah",
+      "artist": "Plain White T's",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-07-08T12:03:11.451Z"
+  "last_full_refresh": "2026-07-09T13:25:31.232Z"
 }
