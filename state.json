@@ -1,16 +1,70 @@
 {
-  "episode_uris": "spotify:episode:1YX6htXbRhNwUibC39s5L9,spotify:episode:2jvYqK3hSFcfehUwXvs6hp,spotify:episode:62hILxxFkCLdbVv4GxMo0a,spotify:episode:6YDUogeftop1cr5pMoHlr6,spotify:episode:7ejCa09c75VxeIMjUcNOvG",
-  "last_updated": "2026-07-10T12:39:59.006Z",
+  "episode_uris": "spotify:episode:0v0nIUrTfKMRjQ7SNAa6Y5,spotify:episode:1YX6htXbRhNwUibC39s5L9,spotify:episode:2JhnwZ7xtLmOiGoCu0p7p3,spotify:episode:5mpbAHBNggftBkNUhAyVPs,spotify:episode:6TjHbRlTOwtshrC10Lupip",
+  "last_updated": "2026-07-11T11:28:42.611Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:3AJwUDP919kvQ9QcozQPxg",
-      "name": "Yellow",
-      "artist": "Coldplay",
+      "uri": "spotify:track:4R2kfaDFhslZEMJqAFNpdd",
+      "name": "cardigan",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
-      "name": "Lighthouse",
+      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
+      "name": "Paid Time Off",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
+      "name": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
+      "name": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
+      "name": "Young And Beautiful",
+      "artist": "Lana Del Rey",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
+      "name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1yO0BdWqCN0ND5JzQPhMpT",
+      "name": "Dashboard",
       "artist": "Noah Kahan",
       "type": "track"
     },
@@ -21,39 +75,21 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:3yWuTOYDztXjZxdE2cIRUa",
-      "name": "Opalite",
-      "artist": "Taylor Swift",
+      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+      "name": "Only Girl (In The World)",
+      "artist": "Rihanna",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1yO0BdWqCN0ND5JzQPhMpT",
-      "name": "Dashboard",
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:77zqs8ucHCSk5jh9TYec4b",
-      "name": "The Great Divide",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
-      "name": "Story of My Life",
-      "artist": "One Direction",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
-      "name": "Closer",
-      "artist": "The Chainsmokers, Halsey",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U5JVgI2x4rDyHGObzJfNf",
-      "name": "Unwritten",
-      "artist": "Natasha Bedingfield",
+      "uri": "spotify:track:5oO3drDxtziYU2H1X23ZIp",
+      "name": "Love On The Brain",
+      "artist": "Rihanna",
       "type": "track"
     },
     {
@@ -63,26 +99,20 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
-      "name": "Porch Light",
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
+      "uri": "spotify:track:53iuhJlwXhSER5J2IYYv1W",
+      "name": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2uIX8YMNjGMD7441kqyyNU",
-      "name": "ocean eyes",
-      "artist": "Billie Eilish",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:35po0dhj4pRkbVDeooNVBW",
-      "name": "Staying Still",
+      "uri": "spotify:track:0mflMxspEfB0VbI1kyLiAv",
+      "name": "Stick Season",
       "artist": "Noah Kahan",
       "type": "track"
     },
@@ -93,27 +123,27 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
-      "name": "Viva La Vida",
-      "artist": "Coldplay",
+      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+      "name": "Manchild",
+      "artist": "Sabrina Carpenter",
       "type": "track"
     },
     {
-      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
-      "name": "Pocketful of Sunshine",
-      "artist": "Natasha Bedingfield",
+      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
+      "name": "Apologize",
+      "artist": "Timbaland, OneRepublic",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
-      "artist": "John Legend",
+      "uri": "spotify:track:2riqLstH9xOaFrmXe4u3lO",
+      "name": "All Them Horses",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)",
-      "artist": "Ariana Grande",
+      "uri": "spotify:track:2OzhQlSqBEmt7hmkYxfT6m",
+      "name": "Fortnight (feat. Post Malone)",
+      "artist": "Taylor Swift, Post Malone",
       "type": "track"
     },
     {
@@ -121,37 +151,7 @@
       "name": "Just Give Me a Reason (feat. Nate Ruess)",
       "artist": "P!nk, Nate Ruess",
       "type": "track"
-    },
-    {
-      "uri": "spotify:track:6dOtVTDdiauQNBQEDOtlAB",
-      "name": "BIRDS OF A FEATHER",
-      "artist": "Billie Eilish",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
-      "name": "iloveitiloveitiloveit",
-      "artist": "Bella Kay",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
-      "name": "Doors",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
-      "name": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
-      "name": "Only Girl (In The World)",
-      "artist": "Rihanna",
-      "type": "track"
     }
   ],
-  "last_full_refresh": "2026-07-10T12:39:59.006Z"
+  "last_full_refresh": "2026-07-11T11:28:42.611Z"
 }
