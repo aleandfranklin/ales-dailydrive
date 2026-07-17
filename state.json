@@ -1,137 +1,11 @@
 {
-  "episode_uris": "spotify:episode:15vChVtdi7nCp1jK8JavMM,spotify:episode:1gIyOFTw7lpVn1ypchPnaV,spotify:episode:2MEjqKA7hc3p99GDhY0Ixc,spotify:episode:2SCtNAQXeObmSSSWHLvEb9,spotify:episode:5Fm26wLXqRD8k9pEgqzG2X",
-  "last_updated": "2026-07-16T11:59:01.810Z",
+  "episode_uris": "spotify:episode:03p9NexMz4YbhALANAHpTP,spotify:episode:2SCtNAQXeObmSSSWHLvEb9,spotify:episode:445VyC8h87Pg9ebIPZKFdA,spotify:episode:5PO63yEMsvqD5a8AJUQZog,spotify:episode:7uvOPJtfj0UtrPrnIPs8bc",
+  "last_updated": "2026-07-17T11:50:25.883Z",
   "music_tracks": [
     {
-      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
-      "name": "Tears",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
-      "name": "Cruel Summer",
-      "artist": "Taylor Swift",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
-      "name": "23",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4oR1cEFrN0rq9DLTrEQjMd",
-      "name": "The Great Divide",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0cvrMGzr2LhZAG5SP8KDUB",
-      "name": "Downfall",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5LlExBVApHgxWQf6BbsCwo",
-      "name": "End of August",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:51rfRCiUSvxXlCSCfIztBy",
-      "name": "I Love You, I'm Sorry",
-      "artist": "Gracie Abrams",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
-      "name": "Manchild",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2riqLstH9xOaFrmXe4u3lO",
-      "name": "All Them Horses",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5xEM5hIgJ1jjgcEBfpkt2F",
-      "name": "Complicated",
-      "artist": "Avril Lavigne",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
-      "name": "Espresso",
-      "artist": "Sabrina Carpenter",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
-      "name": "All of Me",
-      "artist": "John Legend",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
-      "name": "Count on Me",
-      "artist": "Bruno Mars",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
-      "name": "A Thousand Miles",
-      "artist": "Vanessa Carlton",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
-      "name": "Lighthouse",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5Ohxk2dO5COHF1krpoPigN",
-      "name": "Sign of the Times",
-      "artist": "Harry Styles",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
-      "name": "A Few Of Your Own",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
-      "name": "We Go Way Back",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
-      "name": "Deny Deny Deny",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
-      "name": "Vienna",
-      "artist": "Billy Joel",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1Slwb6dOYkBlWal1PGtnNg",
-      "name": "Thinking out Loud",
-      "artist": "Ed Sheeran",
+      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
+      "name": "Story of My Life",
+      "artist": "One Direction",
       "type": "track"
     },
     {
@@ -141,17 +15,143 @@
       "type": "track"
     },
     {
+      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
+      "name": "my tears ricochet",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2HRqTpkrJO5ggZyyK6NPWz",
+      "name": "Espresso",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
+      "name": "Porch Light",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:42VUCXerQ5qTr4Qp6PhKo4",
+      "name": "Tears",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
+      "name": "Apologize",
+      "artist": "Timbaland, OneRepublic",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1yO0BdWqCN0ND5JzQPhMpT",
+      "name": "Dashboard",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "name": "Iris",
+      "artist": "The Goo Goo Dolls",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
+      "name": "Love The Way You Lie",
+      "artist": "Eminem, Rihanna",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+      "name": "Nothin' on You (feat. Bruno Mars)",
+      "artist": "B.o.B, Bruno Mars",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5LlExBVApHgxWQf6BbsCwo",
+      "name": "End of August",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
+      "name": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "artist": "Harry Styles",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:003vvx7Niy0yvhvHt4a68B",
+      "name": "Mr. Brightside",
+      "artist": "The Killers",
+      "type": "track"
+    },
+    {
       "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
       "name": "Die On This Hill",
       "artist": "SIENNA SPIRO",
       "type": "track"
     },
     {
-      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
-      "name": "Paid Time Off",
+      "uri": "spotify:track:1uigwk5hNV84zRd5YQQRTk",
+      "name": "Pocketful of Sunshine",
+      "artist": "Natasha Bedingfield",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5Ggs0FNg1vw5ZLXDpyosb9",
+      "name": "Porch Light",
       "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:3U4isOIWM3VvDubwSI3y7a",
+      "name": "All of Me",
+      "artist": "John Legend",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+      "name": "Closer",
+      "artist": "The Chainsmokers, Halsey",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:31xEHFL0vuG4pJjpJiF367",
+      "name": "Dan",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
+      "name": "A Few Of Your Own",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2BwO5K8Q7EPAJSGze3AAh9",
+      "name": "Manchild",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "artist": "Harry Styles",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-07-16T11:59:01.810Z"
+  "last_full_refresh": "2026-07-17T11:50:25.883Z"
 }
