@@ -1,43 +1,7 @@
 {
-  "episode_uris": "spotify:episode:0nNAINv5RTaQCSiWMWguEu,spotify:episode:1zbpbcOGRNwxcs9dhMTXbJ,spotify:episode:25WVzCWzqNGVERWbsISz4M,spotify:episode:5fT7sj9bVK6Xg6CNjh0SW4,spotify:episode:7wwEzuA2A2Xk74jk6Ishps",
-  "last_updated": "2026-08-01T11:41:19.975Z",
+  "episode_uris": "spotify:episode:1jH9E1E0QiydoR5pEMHRzY,spotify:episode:3CoYI13NBaMsLnk2BF10OB,spotify:episode:49lo48VKXhnHOc5Ivi1Nn1,spotify:episode:4oqjab93oEYftVGMYnpV2L,spotify:episode:5fT7sj9bVK6Xg6CNjh0SW4",
+  "last_updated": "2026-08-02T11:40:48.997Z",
   "music_tracks": [
-    {
-      "uri": "spotify:track:3qlUIPzkFzIm3Ouzg0AoiH",
-      "name": "Doors",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:3IBLeIzqewsCR4Pvp5jqD3",
-      "name": "Paid Time Off",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:30ESvDM9p3PSK4v5SQvvgt",
-      "name": "We Go Way Back",
-      "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4rHZZAmHpZrA3iH5zx8frV",
-      "name": "Mirrors",
-      "artist": "Justin Timberlake",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
-      "name": "Closer",
-      "artist": "The Chainsmokers, Halsey",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
-      "name": "Hey There Delilah",
-      "artist": "Plain White T's",
-      "type": "track"
-    },
     {
       "uri": "spotify:track:5O2P9iiztwhomNh8xkR9lJ",
       "name": "Night Changes",
@@ -45,27 +9,39 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:3hUxzQpSfdDqwM3ZTFQY0K",
-      "name": "august",
+      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
+      "name": "Porch Light",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1CPZ5BxNNd0n0nF4Orb9JS",
+      "name": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:5IMpnpD0tQVcqWlVIgtAtV",
+      "name": "iloveitiloveitiloveit",
+      "artist": "Bella Kay",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:2tHwzyyOLoWSFqYNjeVMzj",
+      "name": "Please Please Please",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1p80LdxRV74UKvL8gnD7ky",
+      "name": "Blank Space",
       "artist": "Taylor Swift",
       "type": "track"
     },
     {
-      "uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-      "name": "Young And Beautiful",
-      "artist": "Lana Del Rey",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:2yPoXCs7BSIUrucMdK5PzV",
-      "name": "Umbrella",
-      "artist": "Rihanna, JAŸ-Z",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "artist": "Bruno Mars",
+      "uri": "spotify:track:0vUfWOoligPco5oHkFUjIz",
+      "name": "Deny Deny Deny",
+      "artist": "Noah Kahan",
       "type": "track"
     },
     {
@@ -75,15 +51,57 @@
       "type": "track"
     },
     {
+      "uri": "spotify:track:2O4dfLvOE0VBqDmGQiw7fR",
+      "name": "A Few Of Your Own",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg",
+      "name": "Story of My Life",
+      "artist": "One Direction",
+      "type": "track"
+    },
+    {
       "uri": "spotify:track:2RkZ5LkEzeHGRsmDqKwmaJ",
       "name": "Ordinary",
       "artist": "Alex Warren",
       "type": "track"
     },
     {
-      "uri": "spotify:track:5eZT30V5rwLbsal1MMkOxD",
-      "name": "American Cars",
+      "uri": "spotify:track:3a21KySvy0uzOrc18sC6Wg",
+      "name": "23",
       "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6sGIMrtIzQjdzNndVxe397",
+      "name": "So Easy (To Fall In Love)",
+      "artist": "Olivia Dean",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:46XozmqQiBXz6K1ciArEq0",
+      "name": "Headed North",
+      "artist": "Noah Kahan",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+      "name": "Airplanes (feat. Hayley Williams of Paramore)",
+      "artist": "B.o.B, Hayley Williams",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:0je57Uq5eTk1wrPzn9sWbl",
+      "name": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:789CxjEOtO76BVD1A9yJQH",
+      "name": "Stay",
+      "artist": "Rihanna, Mikky Ekko",
       "type": "track"
     },
     {
@@ -93,27 +111,27 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:5ifB2wk4ZCpsOjc3DLjm6n",
-      "name": "Haircut",
+      "uri": "spotify:track:2gYTC8DsplN3RNdpdBcCOQ",
+      "name": "Die On This Hill",
+      "artist": "SIENNA SPIRO",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1BxfuPKGuaTgP7aM0Bbdwr",
+      "name": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:1MgV7FIyNxIG7WzMRJV5HC",
+      "name": "my tears ricochet",
+      "artist": "Taylor Swift",
+      "type": "track"
+    },
+    {
+      "uri": "spotify:track:77fL8ATR0dpUDLI0XLmDBV",
+      "name": "Orbiter",
       "artist": "Noah Kahan",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:51ZQ1vr10ffzbwIjDCwqm4",
-      "name": "we can't be friends (wait for your love)",
-      "artist": "Ariana Grande",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:55lijDD6OAjLFFUHU9tcDm",
-      "name": "WHERE IS MY HUSBAND!",
-      "artist": "RAYE",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:1mKXFLRA179hdOWQBwUk9e",
-      "name": "Just Give Me a Reason (feat. Nate Ruess)",
-      "artist": "P!nk, Nate Ruess",
       "type": "track"
     },
     {
@@ -123,35 +141,17 @@
       "type": "track"
     },
     {
-      "uri": "spotify:track:5Ggs0FNg1vw5ZLXDpyosb9",
-      "name": "Porch Light",
+      "uri": "spotify:track:5eAR1QuDO23Em4r8o5yLul",
+      "name": "Lighthouse",
       "artist": "Noah Kahan",
       "type": "track"
     },
     {
-      "uri": "spotify:track:15JINEqzVMv3SvJTAXAKED",
-      "name": "Love The Way You Lie",
-      "artist": "Eminem, Rihanna",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:6q3zC9dDD4lUNk8nfUztXy",
-      "name": "Apologize",
-      "artist": "Timbaland, OneRepublic",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:4w1lzcaoZ1IC2K5TwjalRP",
-      "name": "A Thousand Miles",
-      "artist": "Vanessa Carlton",
-      "type": "track"
-    },
-    {
-      "uri": "spotify:track:0AV4GhGeGCVJphsMTxDWdE",
-      "name": "Porch Light",
+      "uri": "spotify:track:77fUf5q0rCZJv7sWZH8OXT",
+      "name": "Spoiled",
       "artist": "Noah Kahan",
       "type": "track"
     }
   ],
-  "last_full_refresh": "2026-08-01T11:41:19.975Z"
+  "last_full_refresh": "2026-08-02T11:40:48.997Z"
 }
